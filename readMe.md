@@ -7,9 +7,9 @@ It’s designed for students and developers who want to understand and **practic
 
 ## About This Repository
 
-- 🧩 Covers all key OOP principles: **Classes, Objects, Encapsulation, Inheritance, Polymorphism, and Methods**.  
-- 💻 Includes clean and minimal **Python code examples** for each concept.  
-- 🧠 Encourages **self-learning** by motivating you to search and practice topics you find unclear.
+-  Covers all key OOP principles: **Classes, Objects, Encapsulation, Inheritance, Polymorphism, and Methods**.  
+-  Includes clean and minimal **Python code examples** for each concept.  
+-  Encourages **self-learning** by motivating you to search and practice topics you find unclear.
 
 ---
 
@@ -129,7 +129,7 @@ OOP helps organize your code like the real world — using classes and objects t
 
 ## Note for you
 
-If you didn’t fully understand any topic from this cheat sheet (like abstraction, class methods, or polymorphism),
+If you didn’t fully understand any topic from this cheat sheet (like class methods, or polymorphism),
 take time to search, read more examples, and practice implementing each concept in code.
 Understanding OOP deeply comes through doing, not just reading!
 
