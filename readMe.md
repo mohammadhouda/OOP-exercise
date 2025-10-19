@@ -66,7 +66,7 @@ class ElectricCar(Car):  # inherits from Car
         self.battery_range = battery_range
 
 ```
-## 3. Polymorphism
+## 4. Polymorphism
 
 **Polymorphism** means many forms — same method name but **different** behaviors depending on the object.
 
@@ -112,7 +112,7 @@ class Demo:
         print("Hello from class!")
 ```
 
-## 7. Summary Table
+## 6. Summary Table
 
 | Concept           | Description                          | Example Keyword   |
 | ----------------- | ------------------------------------ | ----------------- |
