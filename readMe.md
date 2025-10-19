@@ -16,7 +16,7 @@ It’s designed for students and developers who want to understand and **practic
 ## 1. Classes and Objects
 
 A **class** is a blueprint for creating **objects** (instances).  
-Objects represent real-world entities with **attributes (data)** and **methods (behaviors)**.
+Objects represent real world entities with **attributes (data)** and **methods (behaviors)**.
 
 ```python
 class Car:
@@ -124,7 +124,7 @@ class Demo:
 
 ## Key Takeaway
 
-OOP helps organize your code like the real world — using classes and objects to make programs more readable, reusable, and scalable.
+OOP helps organize your code like the real world using classes and objects to make programs more readable, reusable, and scalable.
 
 ## Note for you
 
