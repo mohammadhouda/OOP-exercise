@@ -55,8 +55,12 @@ Loop through the cars list and print each car’s info using the car_info() meth
 
 Expected output:
 ``` python
-Tesla Model 3 (Electric) - Range: 500 km - Price: $45000
-Toyota Corolla (Gas) - Fuel: Petrol - Price: $20000
+Tesla Model 3 (Electric)
+Range: 500 km
+Price: $45000
+Toyota Corolla (Gas)
+Fuel: Petrol
+Price: $20000
 ```
 
 ### Bonus Challenge (Optional)
