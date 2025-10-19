@@ -9,7 +9,7 @@ This exercise will help you **apply all the OOP concepts** you learned above —
 
 You are working for a **car manufacturing company**, and you need to create a Python program that manages different types of cars.
 
-Follow these steps carefully 👇
+Follow these steps carefully
 
 ---
 
