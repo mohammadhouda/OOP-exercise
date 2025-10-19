@@ -121,7 +121,6 @@ class Demo:
 | **Encapsulation** | Hiding data inside a class           | `_var`, `__var`   |
 | **Inheritance**   | Reusing code from another class      | `class B(A):`     |
 | **Polymorphism**  | Same method name, different behavior | `def speak()`     |
-| **Abstraction**   | Hiding internal details              | `@abstractmethod` |
 
 ## Key Takeaway
 
